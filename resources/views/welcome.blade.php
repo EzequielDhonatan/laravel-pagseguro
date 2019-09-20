@@ -94,7 +94,7 @@
 
                 <div class="links">
                     <a href="https://www.linkedin.com/in/ezequieldhonatan/">LinkedIn</a>
-                    <a href="https://github.com/ezequieldhonatan/laravel-pag-seguro">GitHub</a>
+                    <a href="https://github.com/ezequieldhonatan/laravel-pagseguro">GitHub</a>
                 </div>
             </div>
         </div>
