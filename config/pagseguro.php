@@ -12,4 +12,7 @@ return [
     
     'url_redirect_after_request'    => 'https://pagseguro.uol.com.br/v2/checkout/payment.html?code=',
 
+    'url_lightbox_sandbox'          => 'https://stc.sandbox.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js',
+    'url_lightbox_prodution'        => 'https://stc.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js'
+
 ];

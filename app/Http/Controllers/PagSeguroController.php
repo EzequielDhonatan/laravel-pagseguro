@@ -15,4 +15,14 @@ class PagSeguroController extends Controller
         
         return redirect()->away($urlRedirect);
     }
+
+    public function lightbox()
+    {
+        return view('pagseguro-lightbox');
+    }
+
+    public function lightboxCode(PagSeguro $pagseguro)
+    {
+        return $pagseguro->generate();
+    }
 }
